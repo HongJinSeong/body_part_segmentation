@@ -1,0 +1,7 @@
+val_mask/
+work_dirs/
+pretrained/
+train2014/
+datasets/
+val2014/
+train_mask/
